@@ -1,0 +1,61 @@
+tramo,fecha,antiguedad,transito,tipo_falla,severidad,pci,origen
+Jr. Dos de Mayo,2024-01-07,8,Bajo,Despostillamiento,Alta,38.9,SIMULADO
+Av. Esteban Pavletich,2024-01-16,1,Alto,Losa dividida,Baja,94.9,SIMULADO
+Av. Esteban Pavletich,2024-01-16,9,Medio,Grietas transversales,Alta,35.0,SIMULADO
+Jr. Huallayco,2024-01-30,9,Bajo,Despostillamiento,Alta,33.5,SIMULADO
+Av. Los Portales,2024-02-15,9,Bajo,Grietas transversales,Alta,31.8,SIMULADO
+Av. Malecón Alomía Robles,2024-02-27,1,Alto,Grietas transversales,Baja,96.2,SIMULADO
+Av. Los Portales,2024-02-29,8,Bajo,Losa dividida,Alta,35.4,SIMULADO
+Jr. Dos de Mayo,2024-03-13,8,Alto,Despostillamiento,Alta,37.9,SIMULADO
+Jr. Dos de Mayo,2024-04-11,10,Medio,Grietas longitudinales,Alta,23.2,SIMULADO
+Jr. Ayacucho,2024-04-16,6,Bajo,Grietas de esquina,Media,49.5,SIMULADO
+Jr. Ayacucho,2024-04-22,8,Alto,Grietas de esquina,Alta,33.3,SIMULADO
+Av. Malecón Alomía Robles,2024-04-29,2,Bajo,Escalonamiento,Baja,85.9,SIMULADO
+Jr. Huallayco,2024-05-02,8,Alto,Grietas de esquina,Alta,37.5,SIMULADO
+Av. Esteban Pavletich,2024-05-05,1,Medio,Grietas de esquina,Baja,92.5,SIMULADO
+Jr. Abtao,2024-05-11,3,Bajo,Grietas de esquina,Baja,73.7,SIMULADO
+Jr. Ayacucho,2024-07-05,9,Bajo,Grietas transversales,Alta,29.6,SIMULADO
+Av. Universitaria,2024-07-12,9,Medio,Escalonamiento,Alta,27.6,SIMULADO
+Jr. Huallayco,2024-07-18,5,Bajo,Grietas transversales,Media,56.2,SIMULADO
+Jr. Huallayco,2024-07-25,5,Medio,Despostillamiento,Media,59.9,SIMULADO
+Av. Los Portales,2024-07-28,9,Medio,Escalonamiento,Alta,31.7,SIMULADO
+Jr. Huallayco,2024-08-18,1,Bajo,Grietas de esquina,Baja,95.6,SIMULADO
+Jr. Ayacucho,2024-08-20,8,Medio,Grietas longitudinales,Alta,35.8,SIMULADO
+Av. Malecón Alomía Robles,2024-08-30,10,Bajo,Despostillamiento,Alta,19.7,SIMULADO
+Av. Universitaria,2024-09-11,6,Alto,Escalonamiento,Media,51.1,SIMULADO
+Av. Los Portales,2024-10-18,5,Medio,Grietas transversales,Media,57.7,SIMULADO
+Av. Esteban Pavletich,2024-10-19,5,Medio,Despostillamiento,Media,54.3,SIMULADO
+Av. Los Portales,2024-11-03,5,Alto,Grietas longitudinales,Media,59.5,SIMULADO
+Av. Esteban Pavletich,2024-11-04,2,Alto,Grietas de esquina,Baja,79.9,SIMULADO
+Jr. Ayacucho,2024-11-08,2,Bajo,Grietas longitudinales,Baja,79.2,SIMULADO
+Jr. Dos de Mayo,2024-11-22,1,Alto,Grietas longitudinales,Baja,93.7,SIMULADO
+Av. Universitaria,2024-11-27,10,Bajo,Grietas longitudinales,Alta,23.8,SIMULADO
+Jr. Huallayco,2024-12-03,3,Alto,Escalonamiento,Baja,75.7,SIMULADO
+Av. Los Portales,2024-12-06,9,Bajo,Despostillamiento,Alta,27.2,SIMULADO
+Av. Universitaria,2024-12-09,7,Medio,Escalonamiento,Media,44.2,SIMULADO
+Av. Esteban Pavletich,2024-12-11,7,Alto,Losa dividida,Media,41.6,SIMULADO
+Av. Esteban Pavletich,2024-12-30,2,Alto,Despostillamiento,Baja,82.4,SIMULADO
+Jr. Abtao,2025-01-14,1,Bajo,Escalonamiento,Baja,93.6,SIMULADO
+Av. Los Portales,2025-01-16,8,Alto,Grietas longitudinales,Alta,38.8,SIMULADO
+Jr. Abtao,2025-02-04,4,Alto,Grietas longitudinales,Baja,71.0,SIMULADO
+Jr. Huallayco,2025-02-10,4,Bajo,Grietas longitudinales,Baja,71.5,SIMULADO
+Av. Malecón Alomía Robles,2025-02-15,8,Alto,Grietas transversales,Alta,37.9,SIMULADO
+Jr. Ayacucho,2025-02-17,7,Medio,Grietas longitudinales,Media,42.4,SIMULADO
+Jr. Huallayco,2025-03-04,8,Bajo,Escalonamiento,Alta,35.1,SIMULADO
+Av. Los Portales,2025-03-16,1,Medio,Grietas longitudinales,Baja,100.0,SIMULADO
+Av. Malecón Alomía Robles,2025-04-07,6,Bajo,Escalonamiento,Media,56.0,SIMULADO
+Av. Esteban Pavletich,2025-04-14,3,Medio,Grietas transversales,Baja,80.4,SIMULADO
+Jr. Huallayco,2025-04-19,8,Alto,Despostillamiento,Alta,34.3,SIMULADO
+Av. Universitaria,2025-06-14,7,Bajo,Grietas de esquina,Media,43.0,SIMULADO
+Jr. Dos de Mayo,2025-07-01,6,Bajo,Grietas transversales,Media,55.3,SIMULADO
+Av. Universitaria,2025-07-04,5,Bajo,Grietas longitudinales,Media,63.5,SIMULADO
+Jr. Huallayco,2025-07-09,6,Bajo,Grietas longitudinales,Media,56.5,SIMULADO
+Av. Los Portales,2025-07-19,5,Medio,Grietas transversales,Media,59.3,SIMULADO
+Jr. Abtao,2025-08-01,2,Alto,Despostillamiento,Baja,85.0,SIMULADO
+Av. Esteban Pavletich,2025-08-17,4,Bajo,Escalonamiento,Media,67.5,SIMULADO
+Av. Esteban Pavletich,2025-09-19,7,Alto,Losa dividida,Media,46.8,SIMULADO
+Av. Esteban Pavletich,2025-10-09,5,Alto,Grietas transversales,Media,61.3,SIMULADO
+Jr. Huallayco,2025-10-18,8,Bajo,Losa dividida,Alta,32.5,SIMULADO
+Jr. Dos de Mayo,2025-10-29,7,Bajo,Grietas transversales,Media,47.5,SIMULADO
+Av. Los Portales,2025-11-01,5,Alto,Losa dividida,Media,64.9,SIMULADO
+Av. Los Portales,2025-11-23,6,Alto,Grietas longitudinales,Media,54.2,SIMULADO
